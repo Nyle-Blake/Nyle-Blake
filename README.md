@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nyle-Blake
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me Nyleblake1@gmail.com
 
 <!---
